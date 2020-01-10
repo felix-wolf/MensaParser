@@ -1,0 +1,335 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="Speisepläne - Studierendenwerk Hamburg" name="title"/>
+  <title>
+   Speisepläne - Studierendenwerk Hamburg
+  </title>
+  <link href="/favicon.ico" rel="shortcut icon"/>
+  <link href="/css/main.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/css/print.css" media="print" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div id="plan-page">
+   <div id="plan">
+    <div id="header">
+     <a href="http://www.studierendenwerk-hamburg.de/studierendenwerk/de/home/" id="logo" title="Speisepläne">
+      <img alt="Logo von " src="/images/logo_speiseplan.png" title=""/>
+     </a>
+     <img alt="" id="image" src="/uploads/header/62f6d0e42b2f70f6da9a8594ed8bc7ebc6496194.jpg" title=""/>
+     <div id="cafeteria">
+      <h1>
+       Mensa Stellingen
+      </h1>
+      <p>
+       Vogt-Kölln-Straße 30, 22527 Hamburg
+      </p>
+      <p>
+       Mo - Do 8.00 - 15.00 Uhr
+       <br/>
+       Mittagessen 11.15 - 14.30 Uhr
+       <br/>
+       Fr. 8.00 - 14.30 Uhr
+       <br/>
+       Mittagessen 11.15 - 14.00 Uhr
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+     </div>
+    </div>
+    <div class="clear">
+    </div>
+    <table>
+     <tbody>
+      <tr id="headline">
+       <th class="category" colspan="2">
+        Mittwoch, 08.01.2020
+       </th>
+       <th>
+        Preis
+        <br/>
+        Studierende
+       </th>
+       <th>
+        Preis
+        <br/>
+        Bedienstete
+       </th>
+       <th>
+        Preis
+        <br/>
+        Gäste
+       </th>
+      </tr>
+      <tr class="odd">
+       <th>
+        Aus dem Suppentopf und Süßes
+       </th>
+       <td class="dish-description">
+        Warmer Apfelstrudel  (
+        <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+         Gl
+        </span>
+        ) , Vanillesoße  (
+        <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+         La
+        </span>
+        )
+        <br/>
+        <img alt="Klima Teller" height="25" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="30"/>
+        <img alt="vegetarisch" height="25" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="30"/>
+       </td>
+       <td class="price">
+        1,40 €
+       </td>
+       <td class="price">
+        2,60 €
+       </td>
+       <td class="price">
+        3,25 €
+       </td>
+      </tr>
+      <tr class="even">
+       <th>
+       </th>
+       <td class="dish-description">
+        Gemüse-Curry-Suppe mit Grünkern  (
+        <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+         Gl
+        </span>
+        ,
+        <span class="tooltip" title="Soja/-erzeugnisse">
+         So
+        </span>
+        ,
+        <span class="tooltip" title="Sellerie/-erzeugnisse">
+         Sl
+        </span>
+        )
+        <br/>
+        <img alt="Klima Teller" height="25" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="30"/>
+        <img alt="enthält keine laktosehaltigen Lebensmittel" height="25" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="30"/>
+        <img alt="Vegan" height="25" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="30"/>
+       </td>
+       <td class="price">
+        1,40 €
+       </td>
+       <td class="price">
+        2,60 €
+       </td>
+       <td class="price">
+        3,25 €
+       </td>
+      </tr>
+      <tr class="odd">
+       <th>
+        Gut und günstig
+       </th>
+       <td class="dish-description">
+        Schmorkohl mit Rinderhack "Hamburger Art"  (
+        <span class="tooltip" title="Sellerie/-erzeugnisse">
+         Sl
+        </span>
+        ) , Bratensoße, Kartoffeln
+        <br/>
+        <img alt="enthält keine laktosehaltigen Lebensmittel" height="25" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="30"/>
+        <img alt="mit Rind" height="25" src="/uploads/icons/e9a8e409409cf3ff7a40855d08e89097d6168e29.png" title="mit Rind" width="30"/>
+       </td>
+       <td class="price">
+        2,50 €
+       </td>
+       <td class="price">
+        3,80 €
+       </td>
+       <td class="price">
+        4,75 €
+       </td>
+      </tr>
+      <tr class="even">
+       <th>
+        Vegetarisch
+       </th>
+       <td class="dish-description">
+        Kürbispfanne Hot Spice  (
+        <span class="tooltip" title="Konservierungsstoffe">
+         2
+        </span>
+        ,
+        <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+         Gl
+        </span>
+        ,
+        <span class="tooltip" title="Soja/-erzeugnisse">
+         So
+        </span>
+        ) , Gemüse-Reis  (
+        <span class="tooltip" title="Sellerie/-erzeugnisse">
+         Sl
+        </span>
+        )
+        <br/>
+        <img alt="Klima Teller" height="25" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="30"/>
+        <img alt="enthält keine laktosehaltigen Lebensmittel" height="25" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="30"/>
+        <img alt="Vegan" height="25" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="30"/>
+       </td>
+       <td class="price">
+        2,75 €
+       </td>
+       <td class="price">
+        4,05 €
+       </td>
+       <td class="price">
+        5,10 €
+       </td>
+      </tr>
+      <tr class="odd">
+       <th>
+        Campus Spezial
+       </th>
+       <td class="dish-description">
+        1/2 Hähnchen  (
+        <span class="tooltip" title="Senf/-erzeugnisse">
+         Sf
+        </span>
+        ) , BBQ-Grillsoße  (
+        <span class="tooltip" title="Konservierungsstoffe">
+         2
+        </span>
+        ,
+        <span class="tooltip" title="Süßungsmittel">
+         9
+        </span>
+        ,
+        <span class="tooltip" title="Sellerie/-erzeugnisse">
+         Sl
+        </span>
+        ,
+        <span class="tooltip" title="Senf/-erzeugnisse">
+         Sf
+        </span>
+        ) , Pommes Frites  (
+        <span class="tooltip" title="Senf/-erzeugnisse">
+         Sf
+        </span>
+        )
+        <br/>
+        <img alt="Klima Teller" height="25" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="30"/>
+        <img alt="enthält keine laktosehaltigen Lebensmittel" height="25" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="30"/>
+        <img alt="mit Geflügel" height="25" src="/uploads/icons/636506d11657da1d9d85fc04e0230ab111954912.png" title="mit Geflügel" width="30"/>
+       </td>
+       <td class="price">
+        4,00 €
+       </td>
+       <td class="price">
+        5,00 €
+       </td>
+       <td class="price">
+        6,25 €
+       </td>
+      </tr>
+     </tbody>
+    </table>
+   </div>
+   <div id="advices">
+    <p>
+     • Änderungen des Speiseplans vorbehalten.
+     <br/>
+     • Wir sind als gemeinnütziges Unternehmen verpflichtet, die Nutzungsberechtigung der Studierenden regelmäßig zu überprüfen und bitten Sie daher, den Studierendenausweis immer mitzuführen.
+     <br/>
+     • Wir kennzeichnen die Allergene entsprechend der EU-Lebensmittelinformationsverordnung  Nr. 1169/2011. Kreuzkontaminationen bei den einzelnen Zutaten sowie technologisch unvermeidbare Verunreinigungen einzelner Produkte mit Allergenen können nicht ausgeschlossen werden und werden nicht gekennzeichnet.
+     <br/>
+     • Die verschiedenen Preise sind jeweils gültig für Studierende/Bedienstete/Gäste.
+    </p>
+   </div>
+   <h2>
+    Zusatzstoffe/Allergene
+   </h2>
+   <ul class="additives">
+    <li>
+     2 = Konservierungsstoffe
+    </li>
+    <li>
+     9 = Süßungsmittel
+    </li>
+    <li>
+     Sl = Sellerie/-erzeugnisse
+    </li>
+    <li>
+     Gl = Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse
+    </li>
+    <li>
+     La = Milch/-erzeugnisse (einschl. Laktose)
+    </li>
+   </ul>
+   <ul class="additives">
+    <li>
+     So = Soja/-erzeugnisse
+    </li>
+    <li>
+     Sf = Senf/-erzeugnisse
+    </li>
+   </ul>
+   <br class="clear"/>
+   <ul class="clear" id="additioncategories">
+    <li>
+     <img alt="mit Rind" src="/uploads/icons/e9a8e409409cf3ff7a40855d08e89097d6168e29.png" title="mit Rind"/>
+     <br/>
+     mit Rind
+    </li>
+    <li>
+     <img alt="mit Geflügel" src="/uploads/icons/636506d11657da1d9d85fc04e0230ab111954912.png" title="mit Geflügel"/>
+     <br/>
+     mit Geflügel
+    </li>
+    <li>
+     <img alt="vegetarisch" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch"/>
+     <br/>
+     vegetarisch
+    </li>
+    <li>
+     <img alt="enthält keine laktosehaltigen Lebensmittel" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel"/>
+     <br/>
+     enthält keine laktosehaltigen Lebensmittel
+    </li>
+    <li>
+     <img alt="Klima Teller" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller"/>
+     <br/>
+     Klima Teller
+    </li>
+    <li>
+     <img alt="Vegan" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan"/>
+     <br/>
+     Vegan
+    </li>
+   </ul>
+  </div>
+  <script src="/js/jquery.min.js" type="text/javascript">
+  </script>
+  <script src="/js/script.js" type="text/javascript">
+  </script>
+  <!-- Piwik -->
+  <script type="text/javascript">
+   var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.studierendenwerk-hamburg.de/" : "http://piwik.studierendenwerk-hamburg.de/");
+      document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+   try {
+      var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+      piwikTracker.trackPageView();
+      piwikTracker.enableLinkTracking();
+      } catch( err ) {}
+  </script>
+  <noscript>
+   <p>
+    <img alt="" src="http://piwik.studierendenwerk-hamburg.de/piwik.php?idsite=1" style="border:0"/>
+   </p>
+  </noscript>
+  <!-- End Piwik Tracking Code -->
+ </body>
+</html>
+
+
+

@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-127504457-1">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-127504457-1');
+  </script>
+  <meta content="text/html; charset=utf-8;" http-equiv="Content-Type"/>
+  <title>
+   Studierendenwerk Hamburg
+  </title>
+  <link href="/styles/reset.css" rel="stylesheet" type="text/css"/>
+  <link href="/styles/style.css" rel="stylesheet" type="text/css"/>
+  <link href="/styles/navigation.css" rel="stylesheet" type="text/css"/>
+  <link href="/styles/imageblock_neu.css" rel="stylesheet" type="text/css"/>
+  <link href="/styles/content.css" rel="stylesheet" type="text/css"/>
+  <link href="/styles/fancybox-1.3.4.css" rel="stylesheet" type="text/css"/>
+  <link href="/styles/print.css" media="print" rel="stylesheet" type="text/css"/>
+  <link href="/images/logo_print.png" rel="prefetch"/>
+  <!--[if IE]>
+    <link rel="stylesheet" type="text/css" href="/styles/ie.css" />
+    <![endif]-->
+  <script src="/js/flowplayer-3.2.6.min.js" type="text/javascript">
+  </script>
+  <script src="/js/jquery-1.6.1.min.js" type="text/javascript">
+  </script>
+  <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+  </script>
+  <script>
+   var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+  </script>
+  <script>
+   googletag.cmd.push(function() {
+            googletag.defineSlot('/2227/studierendenwerk_hamburg/stwh_homepage_skycraper//wide/stwh_homepage_homepage', [[120, 600], [160, 600]], 'div-gpt-ad-1484237611426-0').addService(googletag.pubads());
+            googletag.defineSlot('/2227/studierendenwerk_hamburg/stwh_studieren-in-hamburg_160x600/stwh_studieren-in-hamburg_studieren', [[120, 600], [160, 600]], 'div-gpt-ad-1484237611426-1').addService(googletag.pubads());
+            googletag.defineSlot('/2227/studierendenwerk_hamburg/studierendenwerk_hamburg_wohnen/studierendenwerk_hamburgwohnen_wohnen', [[120, 600], [160, 600]], 'div-gpt-ad-1484237611426-2').addService(googletag.pubads());
+            googletag.defineSlot('/2227/studierendenwerk_hamburg/studierendenwerk_hamburg_wohnen/studierendenwerk_hamburgwohnen_wohnanlagen', [[120, 600], [160, 600]], 'div-gpt-ad-1484237611426-3').addService(googletag.pubads());
+            googletag.defineSlot('/2227/studierendenwerk_hamburg/studierendenwerk_hamburg_wohnen/studierendenwerk_hamburgwohnen_wohnplatz', [[120, 600], [160, 600]], 'div-gpt-ad-1484237611426-4').addService(googletag.pubads());
+            googletag.defineSlot('/2227/studierendenwerk_hamburg/stwh_finanzen_160x600/stwh_finanzen_finanzen', [[120, 600], [160, 600]], 'div-gpt-ad-1484237611426-5').addService(googletag.pubads());
+            googletag.defineSlot('/2227/studierendenwerk_hamburg/stwh_essen_160x600/stwh_essen_essen', [[120, 600], [160, 600]], 'div-gpt-ad-1484237611426-6').addService(googletag.pubads());
+            googletag.defineSlot('/2227/studierendenwerk_hamburg/stwh_sozialberatung_160x600/stwh_sozialberatung_sozialberatung', [[120, 600], [160, 600]], 'div-gpt-ad-1484237611426-7').addService(googletag.pubads());
+            googletag.defineSlot('/2227/studierendenwerk_hamburg/stwh_internationales_160x600/stwh_internationales_internationales', [[120, 600], [160, 600]], 'div-gpt-ad-1484237611426-8').addService(googletag.pubads());
+            googletag.defineSlot('/2227/studierendenwerk_hamburg/stwh_familienservice_160x600/stwh_familienservice_familienservice', [[120, 600], [160, 600]], 'div-gpt-ad-1484237611426-9').addService(googletag.pubads());
+            googletag.defineSlot('/2227/studierendenwerk_hamburg/stwh_essen_160x600/stwh_essen_essen_speiseplaene', [[120, 600], [160, 600]], 'div-gpt-ad-1492589456379-0').addService(googletag.pubads());
+            googletag.enableServices();
+        });
+  </script>
+ </head>
+ <body>
+  <div id="frame">
+   <div id="header">
+    <div class="right">
+     <div class="language">
+      <a class="active" href="/studierendenwerk/de/">
+       Deutsch
+      </a>
+      |
+      <a href="/studierendenwerk/en/">
+       English
+      </a>
+     </div>
+     <div class="headline">
+      Das
+      <b>
+       Service-Portal
+      </b>
+      für das Studium in Hamburg
+     </div>
+     <div class="navigation">
+      <ul>
+       <li class="first home tab1">
+        <a href="/studierendenwerk/de/home/">
+         <img alt="" src="/images/layout/icon_haus.png"/>
+        </a>
+       </li>
+       <li class="tab2">
+        <a href="/studierendenwerk/de/studieren_in_hamburg/index_.php">
+         Studieren in Hamburg
+        </a>
+       </li>
+       <li class="tab3">
+        <a href="/studierendenwerk/de/wohnen/">
+         Wohnen
+        </a>
+       </li>
+       <li class="tab4">
+        <a href="/studierendenwerk/de/finanzen/">
+         Finanzen
+        </a>
+       </li>
+       <li class="active tab5">
+        <a href="/studierendenwerk/de/essen/">
+         Essen
+        </a>
+       </li>
+       <li class="tab6">
+        <a href="/studierendenwerk/de/sozialberatung/">
+         Sozialberatung
+        </a>
+       </li>
+       <li class="tab7">
+        <a href="/studierendenwerk/de/familienservice/">
+         Familienservice
+        </a>
+       </li>
+       <li class="tab8">
+        <a href="/studierendenwerk/de/internationales/">
+         Internationales
+        </a>
+       </li>
+       <li class="last tab9">
+        <a href="/studierendenwerk/de/kontakt_info/">
+         Kontakt &amp; Info
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <a href="/studierendenwerk/de/" id="logo">
+     <img alt="" height="126" src="/images/logo.png" width="146"/>
+    </a>
+    <img alt="" id="print_logo" src="/images/logo_print.png"/>
+   </div>
+   <!-- IMAGEBLOCK INCLUDE -->
+   <div id="imageblock" style="background-image: url('/images/headermotive/header-essen.png');">
+    <div id="slider">
+     <div class="side s1" data="s1">
+      <h5>
+       Aktuelles
+      </h5>
+      BERTINI-Preis, Georg Panzram Büchergeld
+     </div>
+     <div class="side s2" data="s2">
+      <h5>
+       Studienfinanzierung
+      </h5>
+      Infos zu BAföG, Stipendien, Studienkredite, Darlehen
+     </div>
+     <div class="side s3" data="s3">
+      <h5>
+       Quicklinks
+      </h5>
+      Speisepläne, BAföG, Kindertagesstätten
+     </div>
+     <a class="side s4" href="/studierendenwerk/de/unternehmen/" name="lastlink">
+      Unternehmen / Jobs
+     </a>
+     <div class="slidecontent">
+      <div class="slide s1">
+       <div class="inner">
+        <h6>
+        </h6>
+        <h6>
+         <a href="/studierendenwerk/de/finanzen/Stipendien/stipendien_inland/stipendien_inland.php" name="headlineblk_slide1__3">
+          Georg Panzram Büchergeld
+         </a>
+        </h6>
+        <p>
+         Bewerbung bis zum 27. März möglich.
+        </p>
+        <h6>
+         <a href="https://bertini-preis.hamburg.de/" name="headlineblk_slide1__6" target="_blank">
+          BERTINI-Preis: Jetzt bewerben!
+         </a>
+        </h6>
+        <p>
+         Das Studierendenwerk Hamburg unterstützt in diesem Jahr erstmals den BERTINI-Preis, der an junge Hamburgerinnen und Hamburger verliehen wird, die sich für ein solidarisches Zusammenleben in Hamburg engagieren.
+        </p>
+        <h6>
+        </h6>
+       </div>
+       <hr/>
+       <div class="link">
+       </div>
+      </div>
+      <div class="slide s2">
+       <div class="inner wohnraeume">
+        <h6>
+         <a href="/studierendenwerk/de/finanzen/aktuelle_infos/" name="headlineblk_slide2__1">
+          Beratungszentrum Studienfinanzierung - BeSt
+         </a>
+        </h6>
+        <p>
+         Wir beantworten Ihre Fragen zum Thema Studienfinanzierung.
+        </p>
+        <h6>
+         <a href="/studierendenwerk/de/finanzen/BAfoeG/Bafoeg.php" name="headlineblk_slide2__3">
+          BAföG
+         </a>
+        </h6>
+        <p>
+         BAföG für ein Studium in Hamburg, für eine Ausbildung in den USA, BAföG online
+        </p>
+        <h6>
+         <a href="/studierendenwerk/de/finanzen/fuer_schueler_und_studieninteressierte/fuer_schueler_studieninteressierte.php" name="headlineblk_slide2__5">
+          Informationsveranstaltung für Studieninteressierte
+         </a>
+        </h6>
+        <p>
+         Wege ins Studium – Informationsveranstaltung „Wie finanziere ich mein Studium? – BAföG, Stipendien und Studienkredite“
+        </p>
+       </div>
+       <hr/>
+       <div class="link">
+       </div>
+      </div>
+      <div class="slide s3">
+       <div class="inner quicklinks">
+        <h6>
+         <a href="/studierendenwerk/de/essen/speiseplaene/" name="headlineblk_slide3__1">
+          Speisepläne
+         </a>
+        </h6>
+        <p>
+         Alle Gerichte für heute, diese und nächste Woche im Überblick
+        </p>
+        <h6>
+         <a href="/studierendenwerk/de/finanzen/BAfoeG/BAfoeg_Studium_HH/Bafoeg_studium_in_hamburg.php" name="headlineblk_slide3__2">
+          BAföG
+         </a>
+        </h6>
+        <p>
+         – eine Möglichkeit der Studienfinanzierung
+        </p>
+        <h6>
+         <a href="/studierendenwerk/de/familienservice/kitas/" name="headlineblk_slide3__4">
+          Kitas
+         </a>
+        </h6>
+        <p>
+         Unsere 5 Kindertagesstätten im Überblick
+        </p>
+        <h6>
+        </h6>
+        <h6>
+        </h6>
+        <h6>
+        </h6>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- slider -->
+   </div>
+   <div id="breadcrumb">
+    Sie befinden sich:
+    <span class="light">
+     <a href="/studierendenwerk/de/essen/">
+      Essen
+     </a>
+     &gt; Speisepläne
+    </span>
+   </div>
+   <div id="content_container">
+    <div class="right">
+     <div class="searchbar">
+      <form action="/studierendenwerk/de/home/suchergebnis.php" id="search" method="post">
+       <input name="we_from_search_Suche" type="hidden" value="1"/>
+       <input src="/images/layout/arrow.png" type="image"/>
+       <input maxlength="255" name="s" placeholder="Suchbegriff" type="text" value=""/>
+      </form>
+      <h1>
+       Speisepläne
+      </h1>
+      <div class="color_line">
+      </div>
+     </div>
+     <div class="content">
+      <div id="content">
+       <div class="introduction text">
+        <h3>
+         Speisepläne unserer Mensen/Cafés/Café Shops
+        </h3>
+        <div class="text">
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/590" target="_blank">
+           Mensa Armgartstraße
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/520" target="_blank">
+           Mensa Bergedorf
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/530" target="_blank">
+           Mensa Berliner-Tor
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/560" target="_blank">
+           Mensa Botanischer-Garten
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/410" target="_blank">
+           Mensa Bucerius-Law-School
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/660" target="_blank">
+           Café Alexanderstraße
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/690" target="_blank">
+           Café (am Mittelweg)
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/531" target="_blank">
+           Café Berliner Tor
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/680">
+           Café CFEL
+          </a>
+         </p>
+         <p>
+          -
+          <a href="/studierendenwerk/de/essen/mensen_und_cafes/detail/?id=91">
+           Café dell`Arte
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/610" target="_blank">
+           Café Jungiusstraße
+          </a>
+         </p>
+         <p>
+          -
+          <a href="/studierendenwerk/de/downloads/essen/Speiseplan_FoodTruck_2019_12_final.pdf?m=1576772150" target="_blank">
+           Food Truck
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://www.studierendenwerk-hamburg.de/studierendenwerk/de/essen/mensen_und_cafes/detail/?id=1118">
+           Schlüters (Pizza &amp; More)
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/340" target="_blank">
+           Mensa Campus
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/420" target="_blank">
+           Mensa Finkenau
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/540" target="_blank">
+           Mensa Geomatikum
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/430" target="_blank">
+           Mensa HCU
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/570" target="_blank">
+           Mensa Harburg
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/580" target="_blank">
+           Mensa Stellingen
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/310" target="_blank">
+           Mensa Studierendenhaus
+          </a>
+         </p>
+         <p>
+          -
+          <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/cafeteria/show/id/380" target="_blank">
+           Mensa Überseering
+          </a>
+         </p>
+        </div>
+        <ul class="links">
+        </ul>
+       </div>
+       <div class="content_list text">
+       </div>
+      </div>
+      <div class="teaser">
+       <ul>
+        <li class="first">
+         <h3>
+          Feedback / Ihre Meinung
+         </h3>
+         <a href="/studierendenwerk/de/essen/feedback/" target="">
+          <img alt="mehr Informationen Feedback" height="96" name="teaser_image" src="/images/teaser_rechts/Teaser-rechts-essen-feedback-2koeche.jpg?m=1337781648" title="mehr Informationen Feedback" width="224"/>
+         </a>
+         <p class="text">
+          Wie hat es Ihnen gefallen? Wir freuen uns über Ihr Feedback, denn wir möchten unser gastronomisches Angebot und unseren Service für Sie noch attraktiver gestalten!
+         </p>
+         <div class="link">
+          <a class="arrow" href="/studierendenwerk/de/essen/feedback/" name="teaser_link">
+           mehr Informationen
+          </a>
+         </div>
+        </li>
+        <li>
+         <h3>
+          B@föG-online
+         </h3>
+         <a href="/studierendenwerk/de/finanzen/BAfoeG/bafoeg_online/Bafoeg_online.php" target="">
+          <img alt=" " height="96" name="teaser_image" src="/images/teaser_rechts/Teaser-rechts-Bafoeg_online.jpg?m=1347518404" width="224"/>
+         </a>
+         <p class="text">
+          Mit dem Online-Service für das BAföG können Sie am PC Ihren BAföG-Antrag bequem und sicher stellen.
+         </p>
+         <div class="link">
+          <a class="arrow" href="/studierendenwerk/de/finanzen/BAfoeG/bafoeg_online/Bafoeg_online.php" name="teaser_link">
+           mehr Informationen
+          </a>
+         </div>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="navigation">
+     <div class="headline">
+      Essen
+     </div>
+     <ul class="list">
+      <li class="first tab1">
+       <a href="/studierendenwerk/de/essen/aktuelle_infos/">
+        Aktuelle Infos
+       </a>
+      </li>
+      <li class="active has_sub tab2">
+       <a href="/studierendenwerk/de/essen/speiseplaene/">
+        Speisepläne
+       </a>
+      </li>
+      <li class="prev_had_sub tab3">
+       <a href="http://speiseplan.studierendenwerk-hamburg.de/index.php/de/newsletter/subscribe" target="_blank">
+        Speiseplan-Newsletter
+       </a>
+      </li>
+      <li class="tab4">
+       <a href="/studierendenwerk/de/essen/mensen_und_cafes/">
+        Mensen und Cafés/Café-Shops
+       </a>
+      </li>
+      <li class="tab5">
+       <a href="/studierendenwerk/de/essen/lebensmittelinformationen/">
+        Lebensmittelinformationen
+       </a>
+      </li>
+      <li class="tab6">
+       <a href="/studierendenwerk/de/essen/essenspreise/">
+        Essenpreise
+       </a>
+      </li>
+      <li class="tab7">
+       <a href="/studierendenwerk/de/essen/catering/">
+        Catering und Veranstaltungen
+       </a>
+      </li>
+      <li class="tab8">
+       <a href="/studierendenwerk/de/essen/feedback/">
+        Feedback
+       </a>
+      </li>
+      <li class="last tab9">
+       <a href="/studierendenwerk/de/essen/faq/index_inkl_Allergen.php">
+        FAQ
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div id="footer">
+    <p class="contact">
+     © 2016 Studierendenwerk Hamburg  |  Von-Melle-Park 2, 20146 Hamburg  |
+     <a href="mailto:info@studierendenwerk-hamburg.de" name="entryblk_contact__3">
+      info@studierendenwerk-hamburg.de
+     </a>
+     |
+     <a href="https://www.facebook.com/StudierendenwerkHamburg/" target="_blank">
+      <img src="/images/fb-logo-blue.png" style="width:  auto; height: 14px; position: relative; bottom: -3px; margin: 0 7px"/>
+     </a>
+    </p>
+    <a href="/studierendenwerk/de/unternehmen/" name="entryblk_line1__1">
+     Unternehmen
+    </a>
+    |
+    <a href="/studierendenwerk/de/unternehmen/faq/faq_neu_neu.php" name="entryblk_line1__2">
+     FAQ
+    </a>
+    |
+    <a href="/studierendenwerk/de/kontakt_info/" name="entryblk_line1__4">
+     Kontakt
+    </a>
+    |
+    <a href="/studierendenwerk/de/unternehmen/sitemap/" name="entryblk_line1__6">
+     Sitemap
+    </a>
+    |
+    <a href="/studierendenwerk/de/unternehmen/impressum/" name="entryblk_line1__7">
+     Impressum/Disclaimer
+    </a>
+    |
+    <a href="/studierendenwerk/de/unternehmen/Jobs/" name="entryblk_line1__8">
+     Jobs
+    </a>
+    |
+    <a href="https://www.facebook.com/StudierendenwerkHamburg/" name="entryblk_line1__10" target="_blank">
+     Facebook
+    </a>
+    |
+    <a href="/studierendenwerk/de/unternehmen/datenschutz/datenschutz.php" name="entryblk_line1__9">
+     Datenschutz
+    </a>
+    <br/>
+   </div>
+   <link href="/styles/cookieconsent.css" rel="stylesheet" type="text/css">
+    <script src=" /js/cookieconsent.js">
+    </script>
+    <script>
+     window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#cfcfcf"
+    },
+    "button": {
+      "background": "#ee8b33"
+    }
+  },
+  "content": {
+	  
+    "message": "Diese Website verwendet Cookies. Wenn Sie die Website weiterhin nutzen, stimmen Sie unserer Verwendung von Cookies zu.  Für weitere Informationen klicken Sie ",
+    "dismiss": "OK",
+    "link": "HIER.",
+    "href": " https://www.studierendenwerk-hamburg.de/studierendenwerk/de/unternehmen/datenschutz/datenschutz.php"
+		  }
+})});
+    </script>
+    <!-- /2227/studierendenwerk_hamburg/stwh_essen_160x600/stwh_essen_essen_speiseplaene -->
+    <div id="div-gpt-ad-1492589456379-0">
+     <script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1492589456379-0'); });
+     </script>
+    </div>
+   </link>
+  </div>
+  <script src="/js/fancybox-1.3.4.pack.js" type="text/javascript">
+  </script>
+  <script src="/js/imageblock_neu.js" type="text/javascript">
+  </script>
+  <script src="/js/jscript.js" type="text/javascript">
+  </script>
+  <!-- <script type="text/javascript">kt('StudWerk');</script> -->
+  <!-- Piwik -->
+  <script type="text/javascript">
+   var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.studierendenwerk-hamburg.de/" : "http://piwik.studierendenwerk-hamburg.de/");
+    document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+   try {
+        var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+        piwikTracker.trackPageView();
+        piwikTracker.enableLinkTracking();
+    } catch( err ) {}
+  </script>
+  <noscript>
+   <p>
+    <img alt="" src="//piwik.studierendenwerk-hamburg.de/piwik.php?idsite=1" style="border:0"/>
+   </p>
+  </noscript>
+  <!-- End Piwik Tracking Code -->
+ </body>
+</html>
+
