@@ -17,24 +17,21 @@
      <a href="http://www.studierendenwerk-hamburg.de/studierendenwerk/de/home/" id="logo" title="Speisepläne">
       <img alt="Logo von " src="/images/logo_speiseplan.png" title=""/>
      </a>
-     <img alt="" id="image" src="/uploads/header/62f6d0e42b2f70f6da9a8594ed8bc7ebc6496194.jpg" title=""/>
+     <img alt="" id="image" src="/uploads/header/95418d8496b9f5f2cc04f913b7739b1dfe593c5b.jpg" title=""/>
      <div id="cafeteria">
       <h1>
-       Mensa Stellingen
+       Mensa Überseering
       </h1>
       <p>
-       Vogt-Kölln-Straße 30, 22527 Hamburg
-      </p>
-      <p>
-       Mo - Do 8.00 - 15.00 Uhr
+       Überseering 35, 22297 Hamburg
        <br/>
-       Mittagessen 11.15 - 14.30 Uhr
+       Mo - Do 11.00 - 16.30 Uhr
        <br/>
-       Fr. 8.00 - 14.30 Uhr
+       Fr 11.00 - 15.30 Uhr
        <br/>
-       Mittagessen 11.15 - 14.00 Uhr
-      </p>
-      <p>
+       Mittagessen Mo - Do 11.00 - 16.00 Uhr
+       <br/>
+       Fr 11.00 - 15.00 Uhr
       </p>
       <p>
       </p>
@@ -42,192 +39,1448 @@
     </div>
     <div class="clear">
     </div>
-    <table>
-     <tbody>
-      <tr id="headline">
-       <th class="category" colspan="2">
-        Mittwoch, 08.01.2020
-       </th>
-       <th>
-        Preis
+    <table id="week-menu">
+     <caption>
+     </caption>
+     <thead>
+      <tr>
+       <th class="category">
+        Wochenplan:
         <br/>
-        Studierende
+        06.01.2020 - 10.01.2020
        </th>
-       <th>
-        Preis
-        <br/>
-        Bedienstete
+       <th class="day">
+        Montag
        </th>
-       <th>
-        Preis
-        <br/>
-        Gäste
+       <th class="day">
+        Dienstag
+       </th>
+       <th class="day">
+        Mittwoch
+       </th>
+       <th class="day">
+        Donnerstag
+       </th>
+       <th class="day">
+        Freitag
        </th>
       </tr>
+     </thead>
+     <tbody>
       <tr class="odd">
-       <th>
+       <th class="category">
         Aus dem Suppentopf und Süßes
        </th>
-       <td class="dish-description">
-        Warmer Apfelstrudel  (
-        <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
-         Gl
-        </span>
-        ) , Vanillesoße  (
-        <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
-         La
-        </span>
-        )
-        <br/>
-        <img alt="Klima Teller" height="25" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="30"/>
-        <img alt="vegetarisch" height="25" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="30"/>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Germknödel mit Schokoladenfüllung
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span class="tooltip" title="Soja/-erzeugnisse">
+            So
+           </span>
+           ,
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           ,
+           <span class="tooltip" title="Schalenfrüchte/-erzeugnisse">
+            Nu
+           </span>
+           )
+          </strong>
+          , Vanillesoße
+          <strong>
+           (
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          1,40 € / 2,60 € / 3,25 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+        </p>
+        <p class="dish">
+         <strong>
+          Indische Tomaten Linsensuppe
+          <strong>
+           (
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           ,
+           <span class="tooltip" title="Senf/-erzeugnisse">
+            Sf
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          1,40 € / 2,60 € / 3,25 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="Vegan" height="17" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="20"/>
+        </p>
        </td>
-       <td class="price">
-        1,40 €
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Käse-Lauchsuppe mit Rinderhack
+          <strong>
+           (
+           <span class="tooltip" title="Farbstoffe">
+            1
+           </span>
+           ,
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           ,
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          1,40 € / 2,60 € / 3,25 €
+         </span>
+         <br/>
+         <img alt="mit Rind" height="17" src="/uploads/icons/e9a8e409409cf3ff7a40855d08e89097d6168e29.png" title="mit Rind" width="20"/>
+        </p>
+        <p class="dish">
+         <strong>
+          Milchreis
+          <strong>
+           (
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+          , Kirschgrütze
+          <strong>
+           (
+           <span class="tooltip" title="Farbstoffe">
+            1
+           </span>
+           ,
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          1,40 € / 2,60 € / 3,25 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+        </p>
        </td>
-       <td class="price">
-        2,60 €
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Erbsencremesuppe
+          <strong>
+           (
+           <span class="tooltip" title="Soja/-erzeugnisse">
+            So
+           </span>
+           ,
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          1,40 € / 2,60 € / 3,25 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="Vegan" height="17" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="20"/>
+        </p>
+        <p class="dish">
+         <strong>
+          2 Quarkkeulchen
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span class="tooltip" title="Ei/-erzeugnisse">
+            Ei
+           </span>
+           ,
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+          , Apfelmus
+          <strong>
+           (
+           <span class="tooltip" title="Antioxidationsmittel">
+            3
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          1,40 € / 2,60 € / 3,25 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+        </p>
        </td>
-       <td class="price">
-        3,25 €
+       <td class="day">
+        <p class="dish">
+         <strong>
+          3 Stück Kartoffelpuffer
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span class="tooltip" title="Ei/-erzeugnisse">
+            Ei
+           </span>
+           )
+          </strong>
+          , Apfelmus
+          <strong>
+           (
+           <span class="tooltip" title="Antioxidationsmittel">
+            3
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          1,40 € / 2,60 € / 3,25 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+        </p>
+        <p class="dish">
+         <strong>
+          Blumenkohl-Broccoli Suppe
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span class="tooltip" title="Soja/-erzeugnisse">
+            So
+           </span>
+           ,
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          1,40 € / 2,60 € / 3,25 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="Vegan" height="17" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="20"/>
+        </p>
+       </td>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Soja Gemüse Eintopf mit Koriander
+          <strong>
+           (
+           <span class="tooltip" title="Soja/-erzeugnisse">
+            So
+           </span>
+           ,
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          1,40 € / 2,60 € / 3,25 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="Vegan" height="17" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="20"/>
+        </p>
+        <p class="dish">
+         <strong>
+          2 Eierpfannkuchen
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span class="tooltip" title="Ei/-erzeugnisse">
+            Ei
+           </span>
+           ,
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+          , Apfelkompott
+          <strong>
+           (
+           <span class="tooltip" title="Antioxidationsmittel">
+            3
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          1,40 € / 2,60 € / 3,25 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+        </p>
        </td>
       </tr>
       <tr class="even">
-       <th>
-       </th>
-       <td class="dish-description">
-        Gemüse-Curry-Suppe mit Grünkern  (
-        <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
-         Gl
-        </span>
-        ,
-        <span class="tooltip" title="Soja/-erzeugnisse">
-         So
-        </span>
-        ,
-        <span class="tooltip" title="Sellerie/-erzeugnisse">
-         Sl
-        </span>
-        )
-        <br/>
-        <img alt="Klima Teller" height="25" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="30"/>
-        <img alt="enthält keine laktosehaltigen Lebensmittel" height="25" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="30"/>
-        <img alt="Vegan" height="25" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="30"/>
-       </td>
-       <td class="price">
-        1,40 €
-       </td>
-       <td class="price">
-        2,60 €
-       </td>
-       <td class="price">
-        3,25 €
-       </td>
-      </tr>
-      <tr class="odd">
-       <th>
+       <th class="category">
         Gut und günstig
        </th>
-       <td class="dish-description">
-        Schmorkohl mit Rinderhack "Hamburger Art"  (
-        <span class="tooltip" title="Sellerie/-erzeugnisse">
-         Sl
-        </span>
-        ) , Bratensoße, Kartoffeln
-        <br/>
-        <img alt="enthält keine laktosehaltigen Lebensmittel" height="25" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="30"/>
-        <img alt="mit Rind" height="25" src="/uploads/icons/e9a8e409409cf3ff7a40855d08e89097d6168e29.png" title="mit Rind" width="30"/>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Stortelli mit Kichererbsen und Tomaten
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+          , rote Beete Tomatensoße
+         </strong>
+         <br/>
+         <span class="price">
+          1,95 € / 3,25 € / 4,10 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="Vegan" height="17" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="20"/>
+        </p>
+        <p class="dish">
+         <strong>
+          Texashacksteak
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span class="tooltip" title="Ei/-erzeugnisse">
+            Ei
+           </span>
+           )
+          </strong>
+          , Tomaten-Basilikumsoße, Farfalle
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          2,50 € / 3,80 € / 4,75 €
+         </span>
+         <br/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="mit Rind" height="17" src="/uploads/icons/e9a8e409409cf3ff7a40855d08e89097d6168e29.png" title="mit Rind" width="20"/>
+        </p>
        </td>
-       <td class="price">
-        2,50 €
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Tomaten Chili Knoblauch Spaghetti mit Tofu
+          <strong>
+           (
+           <span class="tooltip" title="Geschwärzt">
+            6
+           </span>
+           ,
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span class="tooltip" title="Soja/-erzeugnisse">
+            So
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          2,05 € / 3,35 € / 4,20 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="Vegan" height="17" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="20"/>
+         <img alt="Mensa Vital" height="17" src="/uploads/icons/60ce31ed2359296a2b73ea01b9994dfd9a012beb.png" title="Mensa Vital" width="20"/>
+        </p>
        </td>
-       <td class="price">
-        3,80 €
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Chili con Carne
+          <strong>
+           (
+           <span class="tooltip" title="Konservierungsstoffe">
+            2
+           </span>
+           )
+          </strong>
+          , Baguette
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          1,95 € / 3,10 € / 3,90 €
+         </span>
+         <br/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="mit Rind" height="17" src="/uploads/icons/e9a8e409409cf3ff7a40855d08e89097d6168e29.png" title="mit Rind" width="20"/>
+        </p>
        </td>
-       <td class="price">
-        4,75 €
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Frikeh, Grünkern mit Tofu, Mangold und Kürbiskerne
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span class="tooltip" title="Soja/-erzeugnisse">
+            So
+           </span>
+           )
+          </strong>
+          , Soja-Joghurt Minz Dip
+          <strong>
+           (
+           <span class="tooltip" title="Soja/-erzeugnisse">
+            So
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          2,50 € / 3,80 € / 4,75 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="Vegan" height="17" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="20"/>
+        </p>
        </td>
-      </tr>
-      <tr class="even">
-       <th>
-        Vegetarisch
-       </th>
-       <td class="dish-description">
-        Kürbispfanne Hot Spice  (
-        <span class="tooltip" title="Konservierungsstoffe">
-         2
-        </span>
-        ,
-        <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
-         Gl
-        </span>
-        ,
-        <span class="tooltip" title="Soja/-erzeugnisse">
-         So
-        </span>
-        ) , Gemüse-Reis  (
-        <span class="tooltip" title="Sellerie/-erzeugnisse">
-         Sl
-        </span>
-        )
-        <br/>
-        <img alt="Klima Teller" height="25" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="30"/>
-        <img alt="enthält keine laktosehaltigen Lebensmittel" height="25" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="30"/>
-        <img alt="Vegan" height="25" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="30"/>
-       </td>
-       <td class="price">
-        2,75 €
-       </td>
-       <td class="price">
-        4,05 €
-       </td>
-       <td class="price">
-        5,10 €
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Vegane Carbonara mit Tofuwürfel
+          <strong>
+           (
+           <span class="tooltip" title="Farbstoffe">
+            1
+           </span>
+           ,
+           <span class="tooltip" title="Konservierungsstoffe">
+            2
+           </span>
+           ,
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span class="tooltip" title="Soja/-erzeugnisse">
+            So
+           </span>
+           ,
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           ,
+           <span class="tooltip" title="Senf/-erzeugnisse">
+            Sf
+           </span>
+           )
+          </strong>
+          , Conchiglie
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          2,35 € / 3,65 € / 4,60 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="Vegan" height="17" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="20"/>
+        </p>
        </td>
       </tr>
       <tr class="odd">
-       <th>
+       <th class="category">
+        Beliebt und gerne gegessen
+       </th>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Spaghetti
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+          , Bolognese, Hartkäse
+          <strong>
+           (
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          2,50 € / 3,80 € / 4,75 €
+         </span>
+         <br/>
+         <img alt="mit Rind" height="17" src="/uploads/icons/e9a8e409409cf3ff7a40855d08e89097d6168e29.png" title="mit Rind" width="20"/>
+        </p>
+       </td>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Paniertes Schweineschnitzel
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span class="tooltip" title="Ei/-erzeugnisse">
+            Ei
+           </span>
+           ,
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+          , Champignonrahmsoße
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           ,
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          2,80 € / 3,95 € / 5,00 €
+         </span>
+         <br/>
+         <img alt="mit Schwein" height="17" src="/uploads/icons/605801019ea63cf45702f2a2beb9cb9fc64b6b07.png" title="mit Schwein" width="20"/>
+        </p>
+       </td>
+       <td class="day">
+       </td>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Hähnchenbrust in Kardamommarinade
+          <strong>
+           (
+           <span class="tooltip" title="Soja/-erzeugnisse">
+            So
+           </span>
+           )
+          </strong>
+          , Tomaten Paprika Apfelgemüse mit Bambusstreifen
+          <strong>
+           (
+           <span class="tooltip" title="Schwefeldioxid/Sulfite">
+            Sw
+           </span>
+           )
+          </strong>
+          , Basmatireis
+         </strong>
+         <br/>
+         <span class="price">
+          3,30 € / 4,60 € / 5,75 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="mit Geflügel" height="17" src="/uploads/icons/636506d11657da1d9d85fc04e0230ab111954912.png" title="mit Geflügel" width="20"/>
+         <img alt="Mensa Vital" height="17" src="/uploads/icons/60ce31ed2359296a2b73ea01b9994dfd9a012beb.png" title="Mensa Vital" width="20"/>
+        </p>
+       </td>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Krakauer Bratwurst
+          <strong>
+           (
+           <span class="tooltip" title="Konservierungsstoffe">
+            2
+           </span>
+           ,
+           <span class="tooltip" title="Antioxidationsmittel">
+            3
+           </span>
+           ,
+           <span class="tooltip" title="Geschmacksverstärker">
+            4
+           </span>
+           ,
+           <span class="tooltip" title="Phosphat">
+            8
+           </span>
+           ,
+           <span class="tooltip" title="Soja/-erzeugnisse">
+            So
+           </span>
+           ,
+           <span class="tooltip" title="Senf/-erzeugnisse">
+            Sf
+           </span>
+           )
+          </strong>
+          , Zwiebelsoße
+          <strong>
+           (
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           )
+          </strong>
+          , Erbsen- Karotten Gemüse
+          <strong>
+           (
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          2,25 € / 3,40 € / 4,30 €
+         </span>
+         <br/>
+         <img alt="mit Schwein" height="17" src="/uploads/icons/605801019ea63cf45702f2a2beb9cb9fc64b6b07.png" title="mit Schwein" width="20"/>
+        </p>
+       </td>
+      </tr>
+      <tr class="even">
+       <th class="category">
+        Vegetarisch
+       </th>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Fit in die Woche Vegane Kürbispfanne
+          <strong>
+           (
+           <span class="tooltip" title="Konservierungsstoffe">
+            2
+           </span>
+           ,
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span class="tooltip" title="Soja/-erzeugnisse">
+            So
+           </span>
+           )
+          </strong>
+          , Gemüse Bulgur
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          2,80 € / 4,10 € / 5,15 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="Vegan" height="17" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="20"/>
+        </p>
+       </td>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Ägyptische Falafel
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           )
+          </strong>
+          , Knoblauchdip
+          <strong>
+           (
+           <span class="tooltip" title="Farbstoffe">
+            1
+           </span>
+           ,
+           <span class="tooltip" title="Senf/-erzeugnisse">
+            Sf
+           </span>
+           )
+          </strong>
+          , Krautsalat
+          <strong>
+           (
+           <span class="tooltip" title="Antioxidationsmittel">
+            3
+           </span>
+           ,
+           <span class="tooltip" title="Geschwefelt">
+            5
+           </span>
+           ,
+           <span class="tooltip" title="Schwefeldioxid/Sulfite">
+            Sw
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          2,75 € / 3,90 € / 4,90 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="Vegan" height="17" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="20"/>
+        </p>
+       </td>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Soja Bolognese mit Gemüse
+          <strong>
+           (
+           <span class="tooltip" title="Soja/-erzeugnisse">
+            So
+           </span>
+           ,
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           )
+          </strong>
+          , Spaghetti
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          2,10 € / 3,40 € / 4,25 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="Vegan" height="17" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="20"/>
+        </p>
+       </td>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Gnocchi a la Romana mit Artischocken und Tomaten
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span class="tooltip" title="Ei/-erzeugnisse">
+            Ei
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          2,65 € / 3,95 € / 4,95 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+        </p>
+       </td>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Kartoffelrösti
+          <strong>
+           (
+           <span class="tooltip" title="Antioxidationsmittel">
+            3
+           </span>
+           )
+          </strong>
+          , gebratenes Gemüse, Joghurt Kräuter Dip
+          <strong>
+           (
+           <span class="tooltip" title="Farbstoffe">
+            1
+           </span>
+           ,
+           <span class="tooltip" title="Antioxidationsmittel">
+            3
+           </span>
+           ,
+           <span class="tooltip" title="Süßungsmittel">
+            9
+           </span>
+           ,
+           <span class="tooltip" title="Ei/-erzeugnisse">
+            Ei
+           </span>
+           ,
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           ,
+           <span class="tooltip" title="Senf/-erzeugnisse">
+            Sf
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          3,30 € / 4,60 € / 5,75 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+        </p>
+       </td>
+      </tr>
+      <tr class="odd">
+       <th class="category">
         Campus Spezial
        </th>
-       <td class="dish-description">
-        1/2 Hähnchen  (
-        <span class="tooltip" title="Senf/-erzeugnisse">
-         Sf
-        </span>
-        ) , BBQ-Grillsoße  (
-        <span class="tooltip" title="Konservierungsstoffe">
-         2
-        </span>
-        ,
-        <span class="tooltip" title="Süßungsmittel">
-         9
-        </span>
-        ,
-        <span class="tooltip" title="Sellerie/-erzeugnisse">
-         Sl
-        </span>
-        ,
-        <span class="tooltip" title="Senf/-erzeugnisse">
-         Sf
-        </span>
-        ) , Pommes Frites  (
-        <span class="tooltip" title="Senf/-erzeugnisse">
-         Sf
-        </span>
-        )
-        <br/>
-        <img alt="Klima Teller" height="25" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="30"/>
-        <img alt="enthält keine laktosehaltigen Lebensmittel" height="25" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="30"/>
-        <img alt="mit Geflügel" height="25" src="/uploads/icons/636506d11657da1d9d85fc04e0230ab111954912.png" title="mit Geflügel" width="30"/>
+       <td class="day">
        </td>
-       <td class="price">
-        4,00 €
+       <td class="day">
        </td>
-       <td class="price">
-        5,00 €
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Kürbis Steckrübenbratling
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+          , Baby Spinatsalat, Frühlingszwiebel Quark
+          <strong>
+           (
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          4,60 € / 5,60 € / 7,00 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+        </p>
        </td>
-       <td class="price">
-        6,25 €
+       <td class="day">
+       </td>
+       <td class="day">
+       </td>
+      </tr>
+      <tr class="even">
+       <th class="category">
+        Pasta-Bar pro 100g
+       </th>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Pasta Napoli, Tomatensoße, Fusilli
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          0,65 € / 0,85 € / 1,05 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="Vegan" height="17" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="20"/>
+        </p>
+        <p class="dish">
+         <strong>
+          Pasta Gorgonzola
+          <strong>
+           (
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+          , Hartkäse
+          <strong>
+           (
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+          , Fusilli
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          0,65 € / 0,85 € / 1,05 €
+         </span>
+         <br/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+        </p>
+       </td>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Pasta con verdure mit buntem Gemüse
+          <strong>
+           (
+           <span class="tooltip" title="Geschwärzt">
+            6
+           </span>
+           ,
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           ,
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           ,
+           <span class="tooltip" title="Schwefeldioxid/Sulfite">
+            Sw
+           </span>
+           )
+          </strong>
+          , Hartkäse
+          <strong>
+           (
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+          , Farfalle
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          0,65 € / 0,85 € / 1,05 €
+         </span>
+         <br/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+        </p>
+        <p class="dish">
+         <strong>
+          Pasta Napoli, Tomatensoße, Farfalle
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          0,65 € / 0,85 € / 1,05 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="Vegan" height="17" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="20"/>
+        </p>
+       </td>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          rote Beete Tomatensoße, Fusilli
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          0,65 € / 0,85 € / 1,05 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="Vegan" height="17" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="20"/>
+        </p>
+        <p class="dish">
+         <strong>
+          Pasta Funghi mit Pilzen in Sahnesoße
+          <strong>
+           (
+           <span class="tooltip" title="Antioxidationsmittel">
+            3
+           </span>
+           ,
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           ,
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           ,
+           <span class="tooltip" title="Schwefeldioxid/Sulfite">
+            Sw
+           </span>
+           )
+          </strong>
+          , Fusilli
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          0,65 € / 0,85 € / 1,05 €
+         </span>
+         <br/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+        </p>
+       </td>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Pasta Saporita mit Rindfleisch und Paprika
+          <strong>
+           (
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           ,
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           )
+          </strong>
+          , Hartkäse
+          <strong>
+           (
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+          , Eliche
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          0,65 € / 0,85 € / 1,05 €
+         </span>
+         <br/>
+         <img alt="mit Rind" height="17" src="/uploads/icons/e9a8e409409cf3ff7a40855d08e89097d6168e29.png" title="mit Rind" width="20"/>
+        </p>
+        <p class="dish">
+         <strong>
+          Tomaten Chili Knoblauch Soße mit Tofu
+          <strong>
+           (
+           <span class="tooltip" title="Geschwärzt">
+            6
+           </span>
+           ,
+           <span class="tooltip" title="Soja/-erzeugnisse">
+            So
+           </span>
+           )
+          </strong>
+          , Eliche
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          0,65 € / 0,85 € / 1,05 €
+         </span>
+         <br/>
+         <img alt="Klima Teller" height="17" src="/uploads/icons/82cc2fece681d1b080ceb0b63d2971f8e33c3d43.png" title="Klima Teller" width="20"/>
+         <img alt="enthält keine laktosehaltigen Lebensmittel" height="17" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel" width="20"/>
+         <img alt="Vegan" height="17" src="/uploads/icons/0e5bab8a7d0af8f5bdbaa75dc217ed76a6186584.png" title="Vegan" width="20"/>
+         <img alt="Mensa Vital" height="17" src="/uploads/icons/60ce31ed2359296a2b73ea01b9994dfd9a012beb.png" title="Mensa Vital" width="20"/>
+        </p>
+       </td>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Tomatensoße mit Paprika Apfel und Bambusstreifen
+          <strong>
+           (
+           <span class="tooltip" title="Schwefeldioxid/Sulfite">
+            Sw
+           </span>
+           )
+          </strong>
+          , Gebratene Gnocchi
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span class="tooltip" title="Ei/-erzeugnisse">
+            Ei
+           </span>
+           ,
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          0,65 € / 0,85 € / 1,05 €
+         </span>
+         <br/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+         <img alt="Mensa Vital" height="17" src="/uploads/icons/60ce31ed2359296a2b73ea01b9994dfd9a012beb.png" title="Mensa Vital" width="20"/>
+        </p>
+       </td>
+      </tr>
+      <tr class="odd">
+       <th class="category">
+        Gemüse-Bar pro 100g
+       </th>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          glacierte rote Beete, Gemüsepfanne Texas
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+          , gedünsteter Kohlrabi
+          <strong>
+           (
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+          , Ratatouille
+          <strong>
+           (
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          0,65 € / 0,85 € / 1,05 €
+         </span>
+         <br/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+        </p>
+       </td>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Prinzeßgemüse, Mexikanisches Gemüse
+          <strong>
+           (
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           )
+          </strong>
+          , gebratene Zucchini, Champignons in Rahm
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           ,
+           <span class="tooltip" title="Schwefeldioxid/Sulfite">
+            Sw
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          0,65 € / 0,85 € / 1,05 €
+         </span>
+         <br/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+        </p>
+       </td>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Blattspinat Asia Style
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           )
+          </strong>
+          , Stangenbrechbohnen Provencial, Austernpilze mit roten Zwiebeln, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln
+          <strong>
+           (
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           ,
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          0,65 € / 0,85 € / 1,05 €
+         </span>
+         <br/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+        </p>
+       </td>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Paprikagemüse mit Mango und Kokosmilch, Orientalisches Linsengemüse
+          <strong>
+           (
+           <span class="tooltip" title="Sellerie/-erzeugnisse">
+            Sl
+           </span>
+           )
+          </strong>
+          , Broccoli, Rosenkohl
+          <strong>
+           (
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+         </strong>
+         <br/>
+         <span class="price">
+          0,65 € / 0,85 € / 1,05 €
+         </span>
+         <br/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+        </p>
+       </td>
+       <td class="day">
+        <p class="dish">
+         <strong>
+          Spanisches Pfannengemüse, Karottengemüse in Kräuterrahm
+          <strong>
+           (
+           <span class="tooltip" daraus="" erzeugnissse="" getreide="" hergestellte="" title="Glutenhaltiges" und="">
+            Gl
+           </span>
+           ,
+           <span (einschl.="" class="tooltip" laktose)="" title="Milch/-erzeugnisse">
+            La
+           </span>
+           )
+          </strong>
+          , Auberginen mit Balsamico Bianco
+          <strong>
+           (
+           <span class="tooltip" title="Antioxidationsmittel">
+            3
+           </span>
+           ,
+           <span class="tooltip" title="Geschwefelt">
+            5
+           </span>
+           ,
+           <span class="tooltip" title="Schwefeldioxid/Sulfite">
+            Sw
+           </span>
+           )
+          </strong>
+          , Zuckerschoten
+         </strong>
+         <br/>
+         <span class="price">
+          0,65 € / 0,85 € / 1,05 €
+         </span>
+         <br/>
+         <img alt="vegetarisch" height="17" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch" width="20"/>
+        </p>
        </td>
       </tr>
      </tbody>
@@ -249,7 +1502,27 @@
    </h2>
    <ul class="additives">
     <li>
+     1 = Farbstoffe
+    </li>
+    <li>
      2 = Konservierungsstoffe
+    </li>
+    <li>
+     3 = Antioxidationsmittel
+    </li>
+    <li>
+     4 = Geschmacksverstärker
+    </li>
+    <li>
+     5 = Geschwefelt
+    </li>
+   </ul>
+   <ul class="additives">
+    <li>
+     6 = Geschwärzt
+    </li>
+    <li>
+     8 = Phosphat
     </li>
     <li>
      9 = Süßungsmittel
@@ -260,20 +1533,36 @@
     <li>
      Gl = Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse
     </li>
+   </ul>
+   <ul class="additives">
     <li>
      La = Milch/-erzeugnisse (einschl. Laktose)
     </li>
-   </ul>
-   <ul class="additives">
+    <li>
+     Ei = Ei/-erzeugnisse
+    </li>
     <li>
      So = Soja/-erzeugnisse
     </li>
     <li>
      Sf = Senf/-erzeugnisse
     </li>
+    <li>
+     Sw = Schwefeldioxid/Sulfite
+    </li>
+   </ul>
+   <ul class="additives">
+    <li>
+     Nu = Schalenfrüchte/-erzeugnisse
+    </li>
    </ul>
    <br class="clear"/>
    <ul class="clear" id="additioncategories">
+    <li>
+     <img alt="mit Schwein" src="/uploads/icons/605801019ea63cf45702f2a2beb9cb9fc64b6b07.png" title="mit Schwein"/>
+     <br/>
+     mit Schwein
+    </li>
     <li>
      <img alt="mit Rind" src="/uploads/icons/e9a8e409409cf3ff7a40855d08e89097d6168e29.png" title="mit Rind"/>
      <br/>
@@ -288,6 +1577,11 @@
      <img alt="vegetarisch" src="/uploads/icons/37beeeef680a6791f97fe5a5da5f9ef5548a4ee9.png" title="vegetarisch"/>
      <br/>
      vegetarisch
+    </li>
+    <li>
+     <img alt="Mensa Vital" src="/uploads/icons/60ce31ed2359296a2b73ea01b9994dfd9a012beb.png" title="Mensa Vital"/>
+     <br/>
+     Mensa Vital
     </li>
     <li>
      <img alt="enthält keine laktosehaltigen Lebensmittel" src="/uploads/icons/a77e0a40d4ef2cdce578538758710c9c59548207.png" title="enthält keine laktosehaltigen Lebensmittel"/>
@@ -330,6 +1624,4 @@
   <!-- End Piwik Tracking Code -->
  </body>
 </html>
-
-
 
